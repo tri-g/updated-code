@@ -1,0 +1,11 @@
+<svg id="Component_111_1" data-name="Component 111 – 1" xmlns="http://www.w3.org/2000/svg" width="330" height="244.46" viewBox="0 0 330 244.46">
+  <path id="Path_4981" data-name="Path 4981" d="M923.712,670.521c61.118,85.578,8.113,153.489-48.14,184.975s-183.9,36.423-243.4-50.366c-23.531-33.526-2.7-65.076-2.7-65.076C669.921,656.711,837.723,584.9,923.712,670.521Z" transform="translate(-620.963 -631.906)" fill="#ff824f" fill-rule="evenodd"/>
+  <g id="Group_2062" data-name="Group 2062" transform="translate(37.272 22.485)">
+    <g id="Group_1633" data-name="Group 1633" transform="translate(0 0)">
+      <g id="Group_1632" data-name="Group 1632">
+        <path id="Path_4433" data-name="Path 4433" d="M433.193,512.283c0,54.3-58.963,98.316-131.7,98.316s-131.7-44.017-131.7-98.316,58.964-98.321,131.7-98.321S433.193,457.982,433.193,512.283Z" transform="translate(-169.797 -413.962)" fill="#fff" opacity="0"/>
+      </g>
+    </g>
+  </g>
+  <text id="Lorem_ipsum_or_lipsum_as_it_is_sometimes_known_is_dummy_text_used_in_laying_out_" data-name="Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out " transform="translate(99.619 85.362)" fill="#fff" font-size="17" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0.844" y="13">Fun Fitness</tspan><!-- <tspan x="17.876" y="29">AS IT IS SOMETIMES </tspan><tspan x="2.006" y="45">KNOWN, IS DUMMY TEXT </tspan><tspan x="15.218" y="61">USED IN LAYING OUT </tspan> --></text>
+</svg>
