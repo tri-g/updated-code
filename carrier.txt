@@ -1,0 +1,11 @@
+<svg id="Component_59_1" data-name="Component 59 – 1" xmlns="http://www.w3.org/2000/svg" width="230" height="168.979" viewBox="0 0 230 168.979">
+  <path id="Path_5292" data-name="Path 5292" d="M834.617,677.848C875.833,742.017,830.6,773.1,792.661,796.7s-124.017,27.311-164.139-37.765c-15.868-25.138-1.823-48.8-1.823-48.8C653.978,647.651,776.63,613.645,834.617,677.848Z" transform="translate(-620.963 -643.374)" fill="#813dff" fill-rule="evenodd"/>
+  <g id="Group_2060" data-name="Group 2060" transform="translate(27.87 20.521)">
+    <g id="Group_1633" data-name="Group 1633" transform="translate(0 0)">
+      <g id="Group_1632" data-name="Group 1632">
+        <path id="Path_4433" data-name="Path 4433" d="M319.8,469.954c0,30.922-33.579,55.989-75,55.989s-75-25.067-75-55.989,33.579-55.992,75-55.992S319.8,439.031,319.8,469.954Z" transform="translate(-154.797 -402.962)" fill="#7a54f2" opacity="0"/>
+      </g>
+    </g>
+  </g>
+  <text id="Lorem_ipsum_or_lipsum_as_it_is_sometimes_known_is_dummy_text_used_in_laying_out_" data-name="Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out " transform="translate(41.023 55.365)" fill="#fff" font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="1.826" y="13">Career Growth Path</tspan><!-- <tspan x="19.376" y="29">AS IT IS SOMETIMES </tspan><tspan x="3.488" y="45">KNOWN, IS DUMMY TEXT </tspan><tspan x="16.718" y="61">USED IN LAYING OUT </tspan> --></text>
+</svg>
